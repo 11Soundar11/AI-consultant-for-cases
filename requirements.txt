@@ -1,0 +1,5 @@
+streamlit
+sklearn.tree import DecisionTreeClassifier
+sklearn.feature_extraction.text import CountVectorizer
+pandas
+pyttsx3
